@@ -30,31 +30,374 @@ Roth, Philip. _The Human Stain_ \[2000\]. New York, NY: Vintage, 2001. ISBN: 978
 Readings by Session
 -------------------
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introductions {{< br >}}{{< br >}} In-class TV clip: "When Keeping it Real Goes Wrong" {{< br >}}{{< br >}}  | Chapelle, Dave. "When Keeping it Real Goes Wrong." In Episode 20 of _Chapelle's Show_, 2004. |
-| 2 | Herman Melville | Melville, Herman. "Benito Cereno." \[1856\] In _The Piazza Tales and other Prose Pieces, 1839-1860_. Evanston, IL: Northwestern University Press, 1987. ISBN: 9780810105515. The [e-text](http://www.gutenberg.org/etext/15859) is available from Project Gutenberg. |
-| 3 | Mark Twain | _Pudd'nhead Wilson_, chapters 1-12. |
-| 4 | _Pudd'nhead Wilson_, chapters 13-end. |
-| 5 | Suzan-Lori Parks | _The American Play_, read all. |
-| 6 | Charles Chesnutt | _The Marrow of Tradition_, chapters 1-16. |
-| 7 | _The Marrow of Tradition_, chapters 17-end. |
-| 8 |  {{< br >}}{{< br >}} Interracial identity {{< br >}}{{< br >}} In-class film: _Cross-Over King_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Cross-Over King_. Directed by John Leguizamo. {{< br >}}{{< br >}} Sollors. "Passing; or, Sacrificing a Parvenu." {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Toni Morrison {{< br >}}{{< br >}} In-class film: _Mr. White_ {{< br >}}{{< br >}}  | Morrison, Toni. "Recitatif." In _Women and Race in Contemporary U.S. Writing: From Faulkner to Morrison_. New York, NY: Palgrave MacMillan, 2007. ISBN: 9781403972385. |
-| 10 | James Weldon Johnson | _Autobiography of an Ex-Colured Man_, chapters 1-7. |
-| 11 | _Autobiography of an Ex-Colured Man_, chapters 8-end. |
-| 12 | Nella Larsen |  {{< br >}}{{< br >}} _Passing_, read all. {{< br >}}{{< br >}} Goffman, Erving. _Presentation of Self in Everyday Life_. New York, NY: Anchor, 1959. ISBN: 9780385094023. {{< br >}}{{< br >}}  |
-| 13 | Being Indian |  {{< br >}}{{< br >}} Deloria. _Playing Indian_. New Haven, NJ: Yale University Press, 1999. ISBN: 9780300080674. {{< br >}}{{< br >}} Riley. "Adventures of an Indian princess." In _Native American Literature: An Anthology_. Lincolnwood, IL: NTC Publishing Group, 1998. ISBN: 9780844259857. {{< br >}}{{< br >}}  |
-| 14 | Philip Roth | _The Human Stain_, chapters 1-3. |
-| 15 | _The Human Stain_, chapters 4-5. |
-| 16 | John Howard Griffin | _Black Like Me_, pp. 1-101 or 10/28-11/21. |
-| 17 | _Black Like Me_, pp. 102-end or 11/24-8/17. |
-| 18 |  {{< br >}}{{< br >}} Gender {{< br >}}{{< br >}} In-class film: _Paris is Burning_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [_Paris is Burning_](http://www.imdb.com/title/tt0100332/). Directed by Jennie Livingston, 1990. {{< br >}}{{< br >}} Butler, Judith P. "Gender is Burning: Questions of Appropriation and Subversion." In _Bodies That Matter: On the Discursive Limits of Sex_. New York, NY: Routledge, 1993. ISBN: 9780415903660. {{< br >}}{{< br >}}  |
-| 19 |  {{< br >}}{{< br >}} LeRoi Jones {{< br >}}{{< br >}} Whiteness {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Dutchman_. {{< br >}}{{< br >}} Lipsitz, George. _The Possessive Investment in Whiteness: How White People Profit from Identity Politics_. Revised and expanded ed. Philadelphia, PA: Temple University Press, 2006. ISBN: 9781592134946. {{< br >}}{{< br >}} Hooks, Bell. "Representing whiteness: Seeing wings of desire." In _Yearning: Race, Gender, and Cultural Politics_. Boston, MA: South End Press, 1990. ISBN: 9780896083851. {{< br >}}{{< br >}}  |
-| 20 | Library instruction | (no readings) |
-| 21 | Toi Derricotte | _The Black Notebooks_, Introduction to "Blacks in the U." |
-| 22 | _The Black Notebooks_, "Among School" to the end. |
-| 23 | George Schuyler | _Black No More_, chapters 1-6. |
-| 24 | _Black No More_, chapters 7-end. |
-| 25 | In-class film: _Six Degrees of Separation_ | [_Six Degrees of Separation_](http://www.imdb.com/title/tt0108149/). Directed by Fred Schepisi, 1993. |
-| 26 | Student presentations | (no readings)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introductions
+
+In-class TV clip: "When Keeping it Real Goes Wrong"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapelle, Dave. "When Keeping it Real Goes Wrong." In Episode 20 of _Chapelle's Show_, 2004.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Herman Melville
+{{< tdclose >}}
+{{< tdopen >}}
+Melville, Herman. "Benito Cereno." \[1856\] In _The Piazza Tales and other Prose Pieces, 1839-1860_. Evanston, IL: Northwestern University Press, 1987. ISBN: 9780810105515. The [e-text](http://www.gutenberg.org/etext/15859) is available from Project Gutenberg.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Mark Twain
+{{< tdclose >}}
+{{< tdopen >}}
+_Pudd'nhead Wilson_, chapters 1-12.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Pudd'nhead Wilson_, chapters 13-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Suzan-Lori Parks
+{{< tdclose >}}
+{{< tdopen >}}
+_The American Play_, read all.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Charles Chesnutt
+{{< tdclose >}}
+{{< tdopen >}}
+_The Marrow of Tradition_, chapters 1-16.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_The Marrow of Tradition_, chapters 17-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Interracial identity
+
+In-class film: _Cross-Over King_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Cross-Over King_. Directed by John Leguizamo.
+
+Sollors. "Passing; or, Sacrificing a Parvenu."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Toni Morrison
+
+In-class film: _Mr. White_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Morrison, Toni. "Recitatif." In _Women and Race in Contemporary U.S. Writing: From Faulkner to Morrison_. New York, NY: Palgrave MacMillan, 2007. ISBN: 9781403972385.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+James Weldon Johnson
+{{< tdclose >}}
+{{< tdopen >}}
+_Autobiography of an Ex-Colured Man_, chapters 1-7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Autobiography of an Ex-Colured Man_, chapters 8-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Nella Larsen
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Passing_, read all.
+
+Goffman, Erving. _Presentation of Self in Everyday Life_. New York, NY: Anchor, 1959. ISBN: 9780385094023.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Being Indian
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Deloria. _Playing Indian_. New Haven, NJ: Yale University Press, 1999. ISBN: 9780300080674.
+
+Riley. "Adventures of an Indian princess." In _Native American Literature: An Anthology_. Lincolnwood, IL: NTC Publishing Group, 1998. ISBN: 9780844259857.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Philip Roth
+{{< tdclose >}}
+{{< tdopen >}}
+_The Human Stain_, chapters 1-3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_The Human Stain_, chapters 4-5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+John Howard Griffin
+{{< tdclose >}}
+{{< tdopen >}}
+_Black Like Me_, pp. 1-101 or 10/28-11/21.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_Black Like Me_, pp. 102-end or 11/24-8/17.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gender
+
+In-class film: _Paris is Burning_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[_Paris is Burning_](http://www.imdb.com/title/tt0100332/). Directed by Jennie Livingston, 1990.
+
+Butler, Judith P. "Gender is Burning: Questions of Appropriation and Subversion." In _Bodies That Matter: On the Discursive Limits of Sex_. New York, NY: Routledge, 1993. ISBN: 9780415903660.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+LeRoi Jones
+
+Whiteness
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Dutchman_.
+
+Lipsitz, George. _The Possessive Investment in Whiteness: How White People Profit from Identity Politics_. Revised and expanded ed. Philadelphia, PA: Temple University Press, 2006. ISBN: 9781592134946.
+
+Hooks, Bell. "Representing whiteness: Seeing wings of desire." In _Yearning: Race, Gender, and Cultural Politics_. Boston, MA: South End Press, 1990. ISBN: 9780896083851.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Library instruction
+{{< tdclose >}}
+{{< tdopen >}}
+(no readings)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Toi Derricotte
+{{< tdclose >}}
+{{< tdopen >}}
+_The Black Notebooks_, Introduction to "Blacks in the U."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+_The Black Notebooks_, "Among School" to the end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+George Schuyler
+{{< tdclose >}}
+{{< tdopen >}}
+_Black No More_, chapters 1-6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_Black No More_, chapters 7-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+In-class film: _Six Degrees of Separation_
+{{< tdclose >}}
+{{< tdopen >}}
+[_Six Degrees of Separation_](http://www.imdb.com/title/tt0108149/). Directed by Fred Schepisi, 1993.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations
+{{< tdclose >}}
+{{< tdopen >}}
+(no readings)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
